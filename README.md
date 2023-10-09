@@ -2,7 +2,7 @@
 
 [BSc Mechatronic Engineer](https://drive.google.com/file/d/1np8uE5l2QnVayfb2_UzNASRnShXMJnda/view?usp=sharing) and Artificial Intelligence Specialist with an emphasis on motor neurocontrol, process automation, robotics, neural networks, and deep learning. My interest is to be able to apply my knowledge in **neuro-robotics, image processing, data analysis, cloud computing**, and **scientific production**. I am a person who is *passionate about sports, reliable, punctual, responsible, with a good attitude, and good teamwork capacity, I learn quickly, am motivated, willing to fulfill any task assigned to me and I provide quality solutions.*
 
-Proficient in MatLab, Python, LaTex, ROS program, PLC, Artificial Intelligence, Machine Learning, Artificial Neural Networks, Microsoft Azure, and Vagrant.
+Proficient in MatLab, Python, LaTex, ROS program, Docker, PLC, Artificial Intelligence, Machine Learning, Artificial Neural Networks, Microsoft Azure, and Vagrant.
 
 Skills in Tensorflow, PyTorch, Scikit-Learn, Scipy, Pandas, and OpenCV libraries.
 
@@ -17,4 +17,5 @@ Skills in Tensorflow, PyTorch, Scikit-Learn, Scipy, Pandas, and OpenCV libraries
 - [EF SET English Certificate (C1 Advanced)](https://www.efset.org/cert/eLRCFb)
 
 ## 📫 My social information
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Robertto48)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roberto-jos%C3%A9-guerrero-criollo-4b008a12b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/0000-0003-4760-4410)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?hl=es&user=SfBzugsAAAAJ)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Robertto48)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/roberto-jos%C3%A9-guerrero-criollo-4b008a12b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/orcid.svg' alt='orcid' height='40'>](https://orcid.org/0000-0003-4760-4410)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://scholar.google.com/citations?hl=es&user=SfBzugsAAAAJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](https://hub.docker.com/u/criollo48)  
+
