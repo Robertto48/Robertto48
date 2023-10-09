@@ -12,8 +12,8 @@ Skills in Tensorflow, PyTorch, Scikit-Learn, Scipy, Pandas, and OpenCV libraries
 
 ## 🏆 My Licenses & Certifications
 
-- [2023 SAS Hackathon Participant](https://www.credly.com/earner/earned/badge/3d649a83-346a-47d3-bf15-2e01da8a6b06)
-- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/earner/earned/badge/69c8a396-b233-4d4f-a3ff-970b617838e7)
+- [2023 SAS Hackathon Participant](https://www.credly.com/badges/3d649a83-346a-47d3-bf15-2e01da8a6b06/linked_in_profile)
+- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/69c8a396-b233-4d4f-a3ff-970b617838e7/linked_in_profile)
 - [EF SET English Certificate (C1 Advanced)](https://www.efset.org/cert/eLRCFb)
 
 ## 📫 My social information
