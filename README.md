@@ -1,6 +1,6 @@
 ## 🙉 Hi there, I'm Roberto
 
-[BSc Mechatronic Engineer](https://drive.google.com/file/d/1np8uE5l2QnVayfb2_UzNASRnShXMJnda/view?usp=sharing) and Artificial Intelligence Specialist with an emphasis on motor neurocontrol, process automation, robotics, neural networks, and deep learning. My interest is to be able to apply my knowledge in **neuro-robotics, image processing, data analysis, cloud computing**, and **scientific production**. I am a person who is *passionate about sports, reliable, punctual, responsible, with a good attitude, and good teamwork capacity, I learn quickly, am motivated, willing to fulfill any task assigned to me, and I provide quality solutions.*
+[BSc Mechatronic Engineer](https://drive.google.com/file/d/1np8uE5l2QnVayfb2_UzNASRnShXMJnda/view?usp=sharing) and [Artificial Intelligence Specialist](https://drive.google.com/file/d/1jUNI7I5OJpc0CXK3_06MKOKbpgSQ3iF3/view?usp=sharing) with an emphasis on motor neurocontrol, process automation, robotics, neural networks, and deep learning. My interest is to be able to apply my knowledge in **neuro-robotics, image processing, data analysis, cloud computing**, and **scientific production**. I am a person who is *passionate about sports, reliable, punctual, responsible, with a good attitude, and good teamwork capacity, I learn quickly, am motivated, willing to fulfill any task assigned to me, and I provide quality solutions.*
 
 Proficient in MatLab, Python, LaTex, ROS program, Docker, PLC, Artificial Intelligence, Machine Learning, Artificial Neural Networks, Microsoft Azure, and Vagrant.
 
