@@ -2,13 +2,28 @@
 
 [BSc Mechatronic Engineer](https://drive.google.com/file/d/1np8uE5l2QnVayfb2_UzNASRnShXMJnda/view?usp=sharing) and [Artificial Intelligence Specialist](https://drive.google.com/file/d/1jUNI7I5OJpc0CXK3_06MKOKbpgSQ3iF3/view?usp=sharing) with an emphasis on motor neurocontrol, process automation, robotics, neural networks, and deep learning. My interest is to be able to apply my knowledge in **neuro-robotics, image processing, data analysis, cloud computing**, and **scientific production**. I am a person who is *passionate about sports, reliable, punctual, responsible, with a good attitude, and good teamwork capacity, I learn quickly, am motivated, willing to fulfill any task assigned to me, and I provide quality solutions.*
 
-Proficient in MatLab, Python, LaTex, ROS program, Docker, PLC, Artificial Intelligence, Machine Learning, Artificial Neural Networks, Microsoft Azure, and Vagrant.
+Knowledge of office software, PLC, Machine Learning, Artificial Intelligence, Artificial Neural Networks, Microsoft Azure, AVEVA InTouch, and Project Management.
 
 Skills in Tensorflow, PyTorch, Scikit-Learn, Scipy, Pandas, and OpenCV libraries.
 
 ## 🚀 My Work Experience
 
-- 🔭 I’m currently working on a model design for measuring the academic, social, environmental, and economic impact of research projects/programs at the Universidad Autónoma de Occidente. 
+### Junior OT Analyst - Johnson & Johnson (Kenvue) • November 2023 - Present
+
+- Analysis of the manufacturing chain process for supervision and strategic decision-making.
+- Provide technical support to the SCADA automation pyramid 24 hours a day, 7 days a week.
+- Development and implementation of solutions using Rockwell Automation software (Allen-Bradley, FactoryTalk) and AVEVA System Platform.
+- Relational database management (Microsoft SQL Server).
+- Comprehensive management of automation service providers.
+- Resolve problems and meet the needs and requirements of the company's clients and users accurately.
+- Document management for controlling changes in automation processes and procedures according to established standards.
+
+### Research Assistant - Universidad Autónoma de Occidente • February - November 2023
+
+- Systematic literature review.
+- Definition of indicators.
+- Analysis of existing measurement models.
+- Design of a training model for measuring the academic, social, environmental, and economic impact of research projects/programs at the Universidad Autónoma de Occidente.
 
 ## 🏆 My Licenses & Certifications
 
