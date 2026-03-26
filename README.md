@@ -8,7 +8,14 @@ Skills in Tensorflow, PyTorch, Scikit-Learn, Scipy, Pandas, and OpenCV libraries
 
 ## 🚀 My Work Experience
 
-### Junior OT Analyst - Johnson & Johnson (Kenvue) • November 2023 - Present
+### Research Associate - Alianza Bioversity & CIAT • April 2025 - Present
+
+- Support the deep learning team in developing predictive models.
+- Evaluate carbon prediction models and validate them with field data.
+- Develop biomass models using machine learning to predict soil carbon.
+- Collaborate on writing scientific articles under the supervision of a research scientist.
+  
+### Junior OT Analyst - Johnson & Johnson (Kenvue) • November 2023 - April 2025
 
 - Analysis of the manufacturing chain process for supervision and strategic decision-making.
 - Provide technical support to the SCADA automation pyramid 24 hours a day, 7 days a week.
